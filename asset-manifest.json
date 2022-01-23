@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/myportfolio/static/js/main.ba0201d0.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.ba0201d0.chunk.js.map",
+    "runtime-main.js": "/myportfolio/static/js/runtime-main.d8d6455f.js",
+    "runtime-main.js.map": "/myportfolio/static/js/runtime-main.d8d6455f.js.map",
+    "static/js/2.3ae46a8f.chunk.js": "/myportfolio/static/js/2.3ae46a8f.chunk.js",
+    "static/js/2.3ae46a8f.chunk.js.map": "/myportfolio/static/js/2.3ae46a8f.chunk.js.map",
+    "index.html": "/myportfolio/index.html",
+    "static/js/2.3ae46a8f.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.3ae46a8f.chunk.js.LICENSE.txt",
+    "static/media/News.87a60c55.jpg": "/myportfolio/static/media/News.87a60c55.jpg",
+    "static/media/amazonBanner.6f0b4c6a.jpg": "/myportfolio/static/media/amazonBanner.6f0b4c6a.jpg",
+    "static/media/blog.79036f50.jpg": "/myportfolio/static/media/blog.79036f50.jpg",
+    "static/media/design.8ecb3043.svg": "/myportfolio/static/media/design.8ecb3043.svg",
+    "static/media/fitness.1e4f8aac.jpg": "/myportfolio/static/media/fitness.1e4f8aac.jpg",
+    "static/media/game-dev.20147858.svg": "/myportfolio/static/media/game-dev.20147858.svg",
+    "static/media/grubh.67c3a099.jpg": "/myportfolio/static/media/grubh.67c3a099.jpg",
+    "static/media/holz.aa8ad30b.jpg": "/myportfolio/static/media/holz.aa8ad30b.jpg",
+    "static/media/img1.e5a6f638.jpg": "/myportfolio/static/media/img1.e5a6f638.jpg",
+    "static/media/intelligence.11bd2ab2.svg": "/myportfolio/static/media/intelligence.11bd2ab2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8d6455f.js",
+    "static/js/2.3ae46a8f.chunk.js",
+    "static/js/main.ba0201d0.chunk.js"
+  ]
+}
