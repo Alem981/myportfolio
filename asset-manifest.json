@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/myportfolio/static/js/main.c655c34f.chunk.js",
-    "main.js.map": "/myportfolio/static/js/main.c655c34f.chunk.js.map",
+    "main.js": "/myportfolio/static/js/main.56dfc567.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.56dfc567.chunk.js.map",
     "runtime-main.js": "/myportfolio/static/js/runtime-main.d8d6455f.js",
     "runtime-main.js.map": "/myportfolio/static/js/runtime-main.d8d6455f.js.map",
     "static/js/2.3ae46a8f.chunk.js": "/myportfolio/static/js/2.3ae46a8f.chunk.js",
@@ -16,12 +16,12 @@
     "static/media/game-dev.20147858.svg": "/myportfolio/static/media/game-dev.20147858.svg",
     "static/media/grubh.67c3a099.jpg": "/myportfolio/static/media/grubh.67c3a099.jpg",
     "static/media/holz.aa8ad30b.jpg": "/myportfolio/static/media/holz.aa8ad30b.jpg",
-    "static/media/img1.e5a6f638.jpg": "/myportfolio/static/media/img1.e5a6f638.jpg",
+    "static/media/img1.941d81ac.jpg": "/myportfolio/static/media/img1.941d81ac.jpg",
     "static/media/intelligence.11bd2ab2.svg": "/myportfolio/static/media/intelligence.11bd2ab2.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d8d6455f.js",
     "static/js/2.3ae46a8f.chunk.js",
-    "static/js/main.c655c34f.chunk.js"
+    "static/js/main.56dfc567.chunk.js"
   ]
 }
