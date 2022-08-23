@@ -1,27 +1,30 @@
 {
   "files": {
-    "main.js": "/myportfolio/static/js/main.c49498da.chunk.js",
-    "main.js.map": "/myportfolio/static/js/main.c49498da.chunk.js.map",
+    "main.js": "/myportfolio/static/js/main.eaf0e39f.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.eaf0e39f.chunk.js.map",
     "runtime-main.js": "/myportfolio/static/js/runtime-main.d8d6455f.js",
     "runtime-main.js.map": "/myportfolio/static/js/runtime-main.d8d6455f.js.map",
-    "static/js/2.a9f58978.chunk.js": "/myportfolio/static/js/2.a9f58978.chunk.js",
-    "static/js/2.a9f58978.chunk.js.map": "/myportfolio/static/js/2.a9f58978.chunk.js.map",
+    "static/js/2.5523989c.chunk.js": "/myportfolio/static/js/2.5523989c.chunk.js",
+    "static/js/2.5523989c.chunk.js.map": "/myportfolio/static/js/2.5523989c.chunk.js.map",
     "index.html": "/myportfolio/index.html",
-    "static/js/2.a9f58978.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.a9f58978.chunk.js.LICENSE.txt",
-    "static/media/News.87a60c55.jpg": "/myportfolio/static/media/News.87a60c55.jpg",
-    "static/media/amazonBanner.6f0b4c6a.jpg": "/myportfolio/static/media/amazonBanner.6f0b4c6a.jpg",
+    "static/js/2.5523989c.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.5523989c.chunk.js.LICENSE.txt",
     "static/media/blog.79036f50.jpg": "/myportfolio/static/media/blog.79036f50.jpg",
     "static/media/design.8ecb3043.svg": "/myportfolio/static/media/design.8ecb3043.svg",
     "static/media/fitness.1e4f8aac.jpg": "/myportfolio/static/media/fitness.1e4f8aac.jpg",
     "static/media/game-dev.20147858.svg": "/myportfolio/static/media/game-dev.20147858.svg",
+    "static/media/goldenhills.827b3c98.jpg": "/myportfolio/static/media/goldenhills.827b3c98.jpg",
     "static/media/grubh.67c3a099.jpg": "/myportfolio/static/media/grubh.67c3a099.jpg",
     "static/media/holz.aa8ad30b.jpg": "/myportfolio/static/media/holz.aa8ad30b.jpg",
     "static/media/img1.941d81ac.jpg": "/myportfolio/static/media/img1.941d81ac.jpg",
-    "static/media/intelligence.11bd2ab2.svg": "/myportfolio/static/media/intelligence.11bd2ab2.svg"
+    "static/media/inProgress.cc34098f.jpg": "/myportfolio/static/media/inProgress.cc34098f.jpg",
+    "static/media/intelligence.11bd2ab2.svg": "/myportfolio/static/media/intelligence.11bd2ab2.svg",
+    "static/media/medigam.cc49b20f.png": "/myportfolio/static/media/medigam.cc49b20f.png",
+    "static/media/solid.18ce6279.jpg": "/myportfolio/static/media/solid.18ce6279.jpg",
+    "static/media/travel.dd9d57f5.jpg": "/myportfolio/static/media/travel.dd9d57f5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d8d6455f.js",
-    "static/js/2.a9f58978.chunk.js",
-    "static/js/main.c49498da.chunk.js"
+    "static/js/2.5523989c.chunk.js",
+    "static/js/main.eaf0e39f.chunk.js"
   ]
 }
