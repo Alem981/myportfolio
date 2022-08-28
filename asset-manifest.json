@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/myportfolio/static/js/main.9d82555d.chunk.js",
-    "main.js.map": "/myportfolio/static/js/main.9d82555d.chunk.js.map",
+    "main.js": "/myportfolio/static/js/main.978ea164.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.978ea164.chunk.js.map",
     "runtime-main.js": "/myportfolio/static/js/runtime-main.d8d6455f.js",
     "runtime-main.js.map": "/myportfolio/static/js/runtime-main.d8d6455f.js.map",
     "static/js/2.5523989c.chunk.js": "/myportfolio/static/js/2.5523989c.chunk.js",
@@ -9,6 +9,7 @@
     "index.html": "/myportfolio/index.html",
     "static/js/2.5523989c.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.5523989c.chunk.js.LICENSE.txt",
     "static/media/blog.79036f50.jpg": "/myportfolio/static/media/blog.79036f50.jpg",
+    "static/media/cart.15d1ffd5.png": "/myportfolio/static/media/cart.15d1ffd5.png",
     "static/media/design.8ecb3043.svg": "/myportfolio/static/media/design.8ecb3043.svg",
     "static/media/fitness.1e4f8aac.jpg": "/myportfolio/static/media/fitness.1e4f8aac.jpg",
     "static/media/game-dev.20147858.svg": "/myportfolio/static/media/game-dev.20147858.svg",
@@ -26,6 +27,6 @@
   "entrypoints": [
     "static/js/runtime-main.d8d6455f.js",
     "static/js/2.5523989c.chunk.js",
-    "static/js/main.9d82555d.chunk.js"
+    "static/js/main.978ea164.chunk.js"
   ]
 }
