@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/myportfolio/static/js/main.43e9043b.chunk.js",
-    "main.js.map": "/myportfolio/static/js/main.43e9043b.chunk.js.map",
+    "main.js": "/myportfolio/static/js/main.5f870a13.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.5f870a13.chunk.js.map",
     "runtime-main.js": "/myportfolio/static/js/runtime-main.c469b308.js",
     "runtime-main.js.map": "/myportfolio/static/js/runtime-main.c469b308.js.map",
     "static/js/2.2c66268d.chunk.js": "/myportfolio/static/js/2.2c66268d.chunk.js",
@@ -16,7 +16,11 @@
     "static/media/goldenhills.827b3c98.jpg": "/myportfolio/static/media/goldenhills.827b3c98.jpg",
     "static/media/grubh.67c3a099.jpg": "/myportfolio/static/media/grubh.67c3a099.jpg",
     "static/media/holz.aa8ad30b.jpg": "/myportfolio/static/media/holz.aa8ad30b.jpg",
-    "static/media/img1.941d81ac.jpg": "/myportfolio/static/media/img1.941d81ac.jpg",
+    "static/media/img2.1d127d9f.jpg": "/myportfolio/static/media/img2.1d127d9f.jpg",
+    "static/media/img3.e542d142.jpg": "/myportfolio/static/media/img3.e542d142.jpg",
+    "static/media/img4.5630fb2d.jpg": "/myportfolio/static/media/img4.5630fb2d.jpg",
+    "static/media/img6.fc430729.jpg": "/myportfolio/static/media/img6.fc430729.jpg",
+    "static/media/imgj.727a3a4b.jpg": "/myportfolio/static/media/imgj.727a3a4b.jpg",
     "static/media/inProgress.cc34098f.jpg": "/myportfolio/static/media/inProgress.cc34098f.jpg",
     "static/media/intelligence.11bd2ab2.svg": "/myportfolio/static/media/intelligence.11bd2ab2.svg",
     "static/media/medigam.cc49b20f.png": "/myportfolio/static/media/medigam.cc49b20f.png",
@@ -29,6 +33,6 @@
   "entrypoints": [
     "static/js/runtime-main.c469b308.js",
     "static/js/2.2c66268d.chunk.js",
-    "static/js/main.43e9043b.chunk.js"
+    "static/js/main.5f870a13.chunk.js"
   ]
 }
