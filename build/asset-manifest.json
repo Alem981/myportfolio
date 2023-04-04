@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/myportfolio/static/js/main.947809e2.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.947809e2.chunk.js.map",
+    "runtime-main.js": "/myportfolio/static/js/runtime-main.c469b308.js",
+    "runtime-main.js.map": "/myportfolio/static/js/runtime-main.c469b308.js.map",
+    "static/js/2.2c66268d.chunk.js": "/myportfolio/static/js/2.2c66268d.chunk.js",
+    "static/js/2.2c66268d.chunk.js.map": "/myportfolio/static/js/2.2c66268d.chunk.js.map",
+    "index.html": "/myportfolio/index.html",
+    "static/js/2.2c66268d.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.2c66268d.chunk.js.LICENSE.txt",
+    "static/media/design.8ecb3043.svg": "/myportfolio/static/media/design.8ecb3043.svg",
+    "static/media/game-dev.20147858.svg": "/myportfolio/static/media/game-dev.20147858.svg",
+    "static/media/grubh.67c3a099.jpg": "/myportfolio/static/media/grubh.67c3a099.jpg",
+    "static/media/img2.1d127d9f.jpg": "/myportfolio/static/media/img2.1d127d9f.jpg",
+    "static/media/img4.5630fb2d.jpg": "/myportfolio/static/media/img4.5630fb2d.jpg",
+    "static/media/img6.fc430729.jpg": "/myportfolio/static/media/img6.fc430729.jpg",
+    "static/media/intelligence.11bd2ab2.svg": "/myportfolio/static/media/intelligence.11bd2ab2.svg",
+    "static/media/solid.18ce6279.jpg": "/myportfolio/static/media/solid.18ce6279.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c469b308.js",
+    "static/js/2.2c66268d.chunk.js",
+    "static/js/main.947809e2.chunk.js"
+  ]
+}
