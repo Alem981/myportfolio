@@ -1,37 +1,25 @@
 {
   "files": {
-    "main.js": "/myportfolio/static/js/main.19af482d.chunk.js",
-    "main.js.map": "/myportfolio/static/js/main.19af482d.chunk.js.map",
+    "main.js": "/myportfolio/static/js/main.947809e2.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.947809e2.chunk.js.map",
     "runtime-main.js": "/myportfolio/static/js/runtime-main.c469b308.js",
     "runtime-main.js.map": "/myportfolio/static/js/runtime-main.c469b308.js.map",
     "static/js/2.2c66268d.chunk.js": "/myportfolio/static/js/2.2c66268d.chunk.js",
     "static/js/2.2c66268d.chunk.js.map": "/myportfolio/static/js/2.2c66268d.chunk.js.map",
     "index.html": "/myportfolio/index.html",
     "static/js/2.2c66268d.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.2c66268d.chunk.js.LICENSE.txt",
-    "static/media/blog.79036f50.jpg": "/myportfolio/static/media/blog.79036f50.jpg",
-    "static/media/cart.15d1ffd5.png": "/myportfolio/static/media/cart.15d1ffd5.png",
     "static/media/design.8ecb3043.svg": "/myportfolio/static/media/design.8ecb3043.svg",
-    "static/media/fitness.1e4f8aac.jpg": "/myportfolio/static/media/fitness.1e4f8aac.jpg",
     "static/media/game-dev.20147858.svg": "/myportfolio/static/media/game-dev.20147858.svg",
-    "static/media/goldenhills.827b3c98.jpg": "/myportfolio/static/media/goldenhills.827b3c98.jpg",
     "static/media/grubh.67c3a099.jpg": "/myportfolio/static/media/grubh.67c3a099.jpg",
-    "static/media/holz.aa8ad30b.jpg": "/myportfolio/static/media/holz.aa8ad30b.jpg",
     "static/media/img2.1d127d9f.jpg": "/myportfolio/static/media/img2.1d127d9f.jpg",
-    "static/media/img3.e542d142.jpg": "/myportfolio/static/media/img3.e542d142.jpg",
     "static/media/img4.5630fb2d.jpg": "/myportfolio/static/media/img4.5630fb2d.jpg",
     "static/media/img6.fc430729.jpg": "/myportfolio/static/media/img6.fc430729.jpg",
-    "static/media/imgj.727a3a4b.jpg": "/myportfolio/static/media/imgj.727a3a4b.jpg",
     "static/media/intelligence.11bd2ab2.svg": "/myportfolio/static/media/intelligence.11bd2ab2.svg",
-    "static/media/medigam.cc49b20f.png": "/myportfolio/static/media/medigam.cc49b20f.png",
-    "static/media/productconfig.828f0d3b.png": "/myportfolio/static/media/productconfig.828f0d3b.png",
-    "static/media/socialApp.32be366e.png": "/myportfolio/static/media/socialApp.32be366e.png",
-    "static/media/socialnetwork.060c6bca.png": "/myportfolio/static/media/socialnetwork.060c6bca.png",
-    "static/media/solid.18ce6279.jpg": "/myportfolio/static/media/solid.18ce6279.jpg",
-    "static/media/travel.dd9d57f5.jpg": "/myportfolio/static/media/travel.dd9d57f5.jpg"
+    "static/media/solid.18ce6279.jpg": "/myportfolio/static/media/solid.18ce6279.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c469b308.js",
     "static/js/2.2c66268d.chunk.js",
-    "static/js/main.19af482d.chunk.js"
+    "static/js/main.947809e2.chunk.js"
   ]
 }
